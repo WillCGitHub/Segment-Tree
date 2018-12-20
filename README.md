@@ -1,2 +1,5 @@
 # Segment-Tree
-Python implimentation of segment tree
+Python implementation of segment tree
+## Funcations
+* Query minimum/maximum within an interval
+* Query sum within an interval
